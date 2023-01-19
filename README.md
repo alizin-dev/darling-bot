@@ -1,4 +1,5 @@
-<h2 align="center">🤖  DARLING-BOT V3</h2>
+<h2 align="center">🤖  DARLING-BOT V1</h2>
+
 
 
 <p align="center">
@@ -68,5 +69,6 @@ OBS: Caso não tenha o JavaScript instalado use: pkg install nodejs -y; pkg inst
  
  • mude o prefixo tbm ( SE QUISER ). na no arquivo > 'CONFIG.JS'
  
+
  
 ### BY ALIZIN-DEV 🥷🏾🙅🏾‍♂️👨‍💻
