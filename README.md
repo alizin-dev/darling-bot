@@ -10,7 +10,8 @@
 
 <p align="center">
 <img title="Autor" src="https://img.shields.io/badge/Autor-ALIZIN.DEV-orange.svg?style=for-the-badge&logo=github"></a>
-<img title="Versão" src="https://img.shields.io/badge/Versão-6.0.0-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://javascript.com">
+<img src="https://img.shields.io/badge/JavaScript-v16-yellow">
 </p>
 
 ## INSTALAÇÃO VIA TERMUX  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
@@ -57,45 +58,6 @@ cd /sdcard/duda-bot-md && sh alizin.sh
 ### • Vá no arquivo 'CONFIG.JS' e coloque seu número no lugar do jeito q esta la, no mesmo formato, JAE Chef ?
  
 ### • mude o prefixo tbm ( SE QUISER ). no arquivo > 'CONFIG.JS'
- 
-
- 
-### BY ALIZIN-DEV 🥷🏾🙅🏾‍♂️👨‍💻
-
-💻 Debian
-$ apt upgrade && apt update -y
-$ git clone https://github.com/ALIZINZL/DARLING-BOT.git
-$ cd DARLING-BOT
-$ npm i
-$ node index
-
-💻 Arch Linux
-$ git clone https://github.com/ALIZINZL/DARLING-BOT.git
-$ cd DARLING-BOT
-$ bash install.sh
-
-💻 OpenSUSE
-$ git clone https://github.com/ALIZINZL/DARLING-BOT.git
-$ cd DARLING-BOT
-$ npm i
-$ node index
-
-OBS: Caso não tenha o JavaScript instalado use: pkg install nodejs -y; pkg install nodejs-lts -y
-
-```
-
- <h2 align="center">⚙️ INSTRUÇÕES</h2>
-
-   
- • Escaneie o qr code por outro celular na aba de "APARELHOS CONECTADOS".
-  
- • Certifique-se que seu Whatsapp esteja atualizado. (RECOMENDO QUE USE O DA PLAY STORE).
-
- • Quando Desligar o bot e quiser ligar novamente basta digitar : cd DARLING-BOT && sh alizin.sh
-  
- • Vá no arquivo 'CONFIG.JS' e coloque seu número no lugar do que já está lá, no mesmo formato sem espaços ou sinais, jae chef ?
- 
- • mude o prefixo tbm ( SE QUISER ). na no arquivo > 'CONFIG.JS'
  
 
  
