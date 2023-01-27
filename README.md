@@ -40,7 +40,7 @@ sh alizin.sh
 
 ## SE O TERMUX FECHOU, DIGITE; <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
 ```
-cd /sdcard/duda-bot-md && sh alizin.sh
+cd /sdcard/darling-bot && sh alizin.sh
 ```
 
 
